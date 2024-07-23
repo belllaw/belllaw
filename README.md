@@ -1,6 +1,8 @@
 # Jongheon Yoon
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjh0420@gmail.com&layout=compact)](https://github.com/yoonjh0420@gmail.com/github-readme-stats)
+
 <h3 align="center"><b>About me</b></h3>
 <p align="center"><a href="https://www.notion.so/Jongheon-Yoon-af62a5209eb6420591714a0bc51c9299?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-EAstyle=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
